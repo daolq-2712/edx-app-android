@@ -187,7 +187,7 @@ public class RegisterActivity extends BaseFragmentActivity
             }
         });
 
-        getRegistrationForm();
+//        getRegistrationForm();
 
         hideSoftKeypad();
         tryToSetUIInteraction(true);
